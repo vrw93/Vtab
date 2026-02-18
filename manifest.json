@@ -1,0 +1,19 @@
+{
+    "name": "VrwTab",
+    "version": "1.0",
+    "manifest_version": 3,
+    "chrome_url_overrides":{
+        "newtab": "index.html"
+    },
+    "icons": {
+        "16":"static/image/favicon.png",
+        "48":"static/image/favicon.png",
+        "128":"static/image/favicon.png"
+    },
+    "action":{
+        "default_popup" : "setting.html"
+    },
+    "permissions":[
+        "storage"
+    ]
+}
