@@ -39,7 +39,7 @@ A Simple Minimalistic New Tab Extension for Google Chrome
 
 VTab is ready to use 🚀
 
-## To DO
+## ⚒ To DO
 - [ ] Add Customizable Widget
 - [ ] Add More Widget
 - [ ] Setting Page Improvement
@@ -49,6 +49,6 @@ VTab is ready to use 🚀
 This project is still under active development.  
 Features and UI may change over time.
 
-## License
+## 📜 License
 This project is released under the MIT License.  
 See [LICENSE](LICENSE) for more details.
