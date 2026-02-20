@@ -39,6 +39,19 @@ A Simple Minimalistic New Tab Extension for Google Chrome
 
 VTab is ready to use 🚀
 
+## 🛠️ Installation (User Mode)
+
+1. Download The Extension From [Release](https://github.com/vrw93/Vtab/releases)
+2. Open Chrome
+3. Go to: `chrome://extensions/`
+4. Enable **Developer Mode**
+5. Drag & Drop Downloaded File Into The Tab
+6. Click **Add Extension** If There Was A Pop Up
+
+`If You Have A Problem Try To Reload The Extension Tab`
+
+VTab is ready to use 🚀
+
 ## ⚒ To DO
 - [ ] Add Customizable Widget
 - [ ] Add More Widget
