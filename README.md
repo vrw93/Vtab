@@ -1,6 +1,10 @@
 <div align="center">
 
 # VTab
+
+# MAINTANACE MODE
+## Not Under Active Delevopment
+
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/platform-Chrome-blue?logo=googlechrome)
 ![Manifest](https://img.shields.io/badge/manifest-v3-orange)
